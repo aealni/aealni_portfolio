@@ -1,7 +1,7 @@
 export const metaData = {
   baseUrl: "https://aealni.vercel.app/",
-  title: "My Portfolio",
-  name: "aealni",
+  title: "Jeffrey Lu",
+  name: "Jeffrey Lu",
   ogImage: "/opengraph-image.png",
   description:
     "Hi, My name is Jeffrey Lu",
