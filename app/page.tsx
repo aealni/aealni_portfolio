@@ -24,44 +24,26 @@ export default function Page() {
       <div className="prose prose-neutral dark:prose-invert">
         <p>
           Hi! My name is Jeffrey Lu. I am pursuing a B.S. in Computer Science at 
-          the University of Illinois Urbana-Champaign.
+          the University of Illinois Urbana-Champaign. My interests lie at the 
+          intersection of computer science and innovation, and I am passionate 
+          about leveraging technology to solve real-world problems.
         </p>
         <p>
-          Nextfolio includes all the essentials for a stunning portfolio: SEO,
-          MDX support, RSS, Atom, & JSON feeds, analytics, tweet & YouTube
-          embeds, KaTeX integration, and{" "}
-          <a
-            target="_blank"
-            href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
-          >
-            more
-          </a>
-          .
+          During my academic journey, I’ve worked on diverse projects ranging from 
+          software development to data-driven research, exploring fields such as AI, 
+          machine learning, and simulations. I enjoy diving deep into complex challenges, 
+          whether it’s through hands-on coding, algorithm optimization, or uncovering 
+          insights from data.
         </p>
         <p>
-          Nextfolio is{" "}
-          <a href={socialLinks.github} target="_blank">
-            open-source
-          </a>{" "}
-          and fully customizable, making it easy to add more features.
+          Beyond academics, I’ve had the privilege of mentoring students, engaging in 
+          community outreach, and sharing my passion for learning through programs I’ve 
+          developed. When I’m not coding, you’ll often find me immersed in strategy or 
+          rhythm games, stargazing to explore my love for astronomy, reading about 
+          emerging technologies, or discovering new ways to challenge myself.
         </p>
         <p>
-          <a
-            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio"
-            target="_blank"
-          >
-            Deploy
-          </a>{" "}
-          your Nextfolio site with Vercel in minutes and follow the set up
-          instructions in the{" "}
-          <a href="/blog/getting-started">Getting Started</a> post.
-        </p>
-        <p>
-          Built and maintained by{" "}
-          <a href="https://imsirius.xyz/" target="_blank">
-            Sirius
-          </a>
-          .
+          Feel free to check out my projects and blog posts to learn more about my work and interests!
         </p>
       </div>
     </section>
